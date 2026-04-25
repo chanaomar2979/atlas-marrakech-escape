@@ -1,0 +1,25 @@
+{
+  "name": "Atlas Marrakech Escape",
+  "short_name": "AME",
+  "description": "Circuits privés au Maroc : désert Sahara, Atlas, Kasbahs. Depuis Marrakech.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EE",
+  "theme_color": "#C2472A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle"],
+  "orientation": "portrait"
+}
