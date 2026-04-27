@@ -9,16 +9,16 @@ export const metadata: Metadata = {
   description:
     'Atlas Marrakech Escape : circuits désert maroc privés depuis Marrakech. Voyage maroc privé, excursion sahara, lune de miel maroc. Devis gratuit, réponse sous 24h.',
   alternates: {
-    canonical: 'https://atlasmarrakechescape.com',
+    canonical: 'https://magicmarrakech.com',
   },
 }
 
 const travelAgencySchema = {
   '@context': 'https://schema.org',
   '@type': 'TravelAgency',
-  '@id': 'https://atlasmarrakechescape.com/#travelagency',
+  '@id': 'https://magicmarrakech.com/#travelagency',
   name: 'Atlas Marrakech Escape',
-  url: 'https://atlasmarrakechescape.com',
+  url: 'https://magicmarrakech.com',
   description:
     'Agence de voyage spécialisée dans les circuits privés au Maroc. Désert du Sahara, Haut Atlas, kasbahs et expériences authentiques depuis Marrakech.',
   address: {

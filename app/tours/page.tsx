@@ -8,12 +8,12 @@ export const metadata: Metadata = {
   description:
     'Découvrez tous nos circuits désert maroc : 2, 3, 4 ou 5 jours depuis Marrakech. Voyage maroc privé, excursion Sahara, lune de miel maroc. Devis gratuit.',
   alternates: {
-    canonical: 'https://atlasmarrakechescape.com/tours',
+    canonical: 'https://magicmarrakech.com/tours',
   },
   openGraph: {
     title: 'Circuits Désert Maroc & Excursions | Tous nos Voyages',
     description: 'Circuits privés 2 à 5 jours depuis Marrakech. Sahara, Atlas, Kasbahs. Devis gratuit sous 24h.',
-    url: 'https://atlasmarrakechescape.com/tours',
+    url: 'https://magicmarrakech.com/tours',
     type: 'website',
   },
 }

@@ -4,7 +4,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import AIChat from '@/components/AIChat'
 
-const BASE_URL = 'https://atlasmarrakechescape.com'
+const BASE_URL = 'https://magicmarrakech.com'
 
 export const viewport: Viewport = {
   width: 'device-width',
